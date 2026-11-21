@@ -408,9 +408,6 @@ public class RagChunkingDemo {
         }
     }
 
-    // ============================================================
-    // 6. Demo：跑通全流程
-    // ============================================================
     public static void main(String[] args) {
         // 约定：\f 为分页符（模拟 PDF/Word 解析后的分页）
         String filePath = "C:\\Users\\92780\\Desktop\\1111.docx";

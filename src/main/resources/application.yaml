@@ -3,11 +3,11 @@ server:
 spring:
   application:
     name: AI_LEARN
-  redis:
-    host: 127.0.0.1
-    port: 6379
-    database: 0
-    timeout: 4s
+  data:
+    redis:
+      host: 127.0.0.1
+      port: 6379
+      database: 0
 
 
 
